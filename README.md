@@ -1,3 +1,4 @@
 # Paraphraser
-This is a python program that excel file containing sentences.
+This is a python program that takes english sentences as an input.
+It takes those sentences automatically from a linked excel file containing sentences.
 It rephrase those sentences in different words.
